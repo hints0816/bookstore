@@ -1,0 +1,62 @@
+* {
+    margin:0;
+    padding:0;
+    font-family:"Î¢ÈíÑÅºÚ";
+    font-weight:500;
+}
+.content{
+    width:80%;
+    margin:10px auto 10px auto;
+    min-width:1000px;
+}
+.operation{
+	margin-top:66px;
+	text-align:center;
+	width:25%;
+    float:right;
+   
+}
+.manage{
+	border:1px solid #EEEEEE;
+    box-shadow:0px 0px 1px 1px #CCCCCC;
+    border-radius:3px;
+}
+.rank{
+	margin-top:40px;
+	border:1px solid #EEEEEE;
+    box-shadow:0px 0px 1px 1px #CCCCCC;
+    border-radius:3px;
+}
+.operation input{
+	color:#888888;
+	font-weight:bold;
+	height:30px;
+	outline-color:rgb(82,185,224);
+	border:0.5px solid rgb(180,180,180);
+}
+.operation-top{
+	margin:20px 5px 5px 5px;
+}
+.operation-bottom{
+	 border:2px solid #EEEEEE;
+	 padding-top:15px;
+	 background:rgb(244,243,242);
+	 padding-bottom:2px;
+}
+.booklist{
+	width:73%;
+    float:left;
+}
+.booktable{
+	width:98%;
+	margin-top:30px;
+}
+.booktable th{
+	border-bottom: 1px solid #DDD;
+	padding:8px 0;
+	font-size:15px;
+}
+.booktable td{
+	border-bottom: 1px solid #DDD;
+	padding:8px 0;
+}

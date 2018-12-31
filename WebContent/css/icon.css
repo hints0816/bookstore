@@ -1,0 +1,33 @@
+@CHARSET "UTF-8";
+.home-pattern{
+		background:url(../images/home.png);
+	}
+.talk-pattern{
+		background:url(../images/talk.png);
+	}
+.bear-pattern{
+		background:url(../images/bear.png);
+	}
+.individual-pattern{
+		background:url(../images/individual.png);
+	}
+.home1-pattern{
+		background:url(../images/home1.png);
+	}
+.talk1-pattern{
+		background:url(../images/talk1.png);
+	}
+.bear1-pattern{
+		background:url(../images/bear1.png);
+	}
+.individual1-pattern{
+		background:url(../images/individual1.png);
+	}
+.pattern{
+		width:20px;
+		height:20px;
+		position:relative;
+		top:5px;
+		margin-right:25px;
+		display: inline-block;
+}

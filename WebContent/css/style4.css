@@ -1,0 +1,63 @@
+
+		* {
+font-family:"Î¢ÈíÑÅºÚ";
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-weight: 500;
+}
+		.antzoen{
+
+  position:fixed;
+
+  width:380px;
+
+  height:200px;
+
+  background: #50a3a2;
+  background: -webkit-linear-gradient(top left, #50a3a2 0%, #53e3a6 100%);
+  background: linear-gradient(to bottom right, #50a3a2 0%, #53e3a6 100%);
+
+  left:50%;
+
+  top:50%;
+
+  margin-left:-190px;
+
+  margin-top:-100px;
+  
+  border-radius:10px;
+
+  text-align:center;
+}
+h1 {
+color:white;
+margin-top:30px;
+  font-size: 40px;
+  -webkit-transition-duration: 1s;
+          transition-duration: 1s;
+  -webkit-transition-timing-function: ease-in-put;
+          transition-timing-function: ease-in-put;
+  font-weight: 200;
+}
+input{
+	font-weight:bold;
+	height:28px;
+    width:200px;	
+	margin:5px 0px 2px 5px; 
+	cursor:default;
+	outline-color:rgba(255,168,0,1);
+	border-radius:5px;
+	border-width:1px;
+}
+
+.t2{
+   font-weight:bold;
+	height:38px;
+    width:80px;	
+	margin:5px 0px 2px 5px; 
+	cursor:default;
+	outline-color:rgba(255,168,0,1);
+	border-radius:5px;
+	border-width:1px;
+}

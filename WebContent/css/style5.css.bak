@@ -1,0 +1,52 @@
+		* {
+font-family:"Î¢ÈíÑÅºÚ";
+/*   box-sizing: border-box; */
+ 
+  font-weight: 500;
+}
+		.antzoen{
+
+position:relative;
+  
+  width:380px;
+  height:400px;
+
+  left:50%;
+
+  top:200px;
+
+  margin-left:-190px;
+  
+  border-radius:10px;
+
+  text-align:center;
+}
+
+input{
+	font-weight:bold;
+	height:25px;
+    width:400px;	
+	margin:5px 0px 2px 5px; 
+	cursor:default;
+	outline-color:rgba(255,168,0,1);
+	border-radius:5px;
+	border-width:1px;
+}
+.t1{
+font-weight:bold;
+	height:18px;
+    width:80px;	
+	margin:5px 0px 0px 5px; 
+	cursor:default;
+	outline-color:rgba(255,168,0,1);
+}
+.t2{
+   font-weight:bold;
+	height:38px;
+    width:80px;	
+	margin:5px 0px 2px 5px; 
+	cursor:default;
+	outline-color:rgba(255,168,0,1);
+	border-radius:5px;
+	border-width:1px;
+}	
